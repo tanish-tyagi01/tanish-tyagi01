@@ -1,5 +1,5 @@
 #👋 Hey there, I’m Tanish!
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Welcome to my GitHub corner 🚀
 
 I’m passionate about growing in tech, building impactful projects, and constantly leveling up my skills. Around here, you’ll find:
