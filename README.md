@@ -19,5 +19,5 @@ You bring the curiosity, I’ll bring the code. ✨
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 💻 Tech Stack:
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-Python Programming Language || Power BI || MS Excel || MySql || AWS Cloud || MS Office || Pandas || Numpy || Matplotlib || Numpy || Linux
+Python Programming Language || Power BI || MS Excel || MySql || AWS Cloud || MS Office || Pandas || Numpy || Matplotlib || Numpy || Linux ||
 Git
