@@ -16,3 +16,8 @@ Whether you’re here to find useful code, swap ideas, or just see how I’m fig
 
 💻 Let’s connect, learn, and grow—one repo at a time.
 You bring the curiosity, I’ll bring the code. ✨
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+💻 Tech Stack:
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+Python Programming Language || Power BI || MS Excel || MySql || AWS Cloud || MS Office || Pandas || Numpy || Matplotlib || Numpy || Linux
+Git
