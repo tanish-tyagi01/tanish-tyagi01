@@ -1,4 +1,4 @@
-👋 Hey there, I’m Tanish!
+#👋 Hey there, I’m Tanish!
 
 Welcome to my GitHub corner 🚀
 
